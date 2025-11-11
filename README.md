@@ -1,2 +1,2 @@
-# CPP
- Repositório para códigos em C++
+# C++
+ Repository for C++ exercises.
